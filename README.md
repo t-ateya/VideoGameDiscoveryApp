@@ -9,3 +9,5 @@ This is a read me file
 rafce to auto generate component
 
 Note: To share a state between two components, we use the closes parent component e.g use App Component to share state between Game and Genre components
+
+to build an application for deployment: npm run build
